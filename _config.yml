@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: TestBlog2
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Tony
 language: en
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://robyang203.github.io/TestBlog2
-root: /
+url: https://robyang203.github.io/
+root: /TestBlog2
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: Next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
